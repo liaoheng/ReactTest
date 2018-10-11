@@ -6,15 +6,15 @@
 
   1. Node.js
   2. JDK and system environment `JAVA_HOME`
-  3. add system environment：`ANDROID_HOME`, `Windows`: `Path` add `%ANDROID_HOME%\tools` and `%ANDROID_HOME%\platform-tools`
+  3. add system environment：`ANDROID_HOME`. Windows: `Path` add `%ANDROID_HOME%\tools` and `%ANDROID_HOME%\platform-tools`
   4. install `react-native-cli` (root directory):
-    ```shell
+  ```shell
     npm install -g react-native-cli
-    ```
+  ```
   5. init
-    ```shell
+  ```shell
     npm install
-    ```
+  ```
 
 #### Running
 
@@ -27,23 +27,18 @@ react-native run-android
 #### 安装
 
   1. Node.js
-
   2. JDK和配置系统变量
-
-  3. 配置系统变量：`ANDROID_HOME`, `Windows`: 在`Path`中添加`%ANDROID_HOME%\tools`和`%ANDROID_HOME%\platform-tools`
-
+  3. 配置系统变量：`ANDROID_HOME`。 Windows: 在`Path`中添加`%ANDROID_HOME%\tools`和`%ANDROID_HOME%\platform-tools`
   4. 安装React Native工具(项目根目录) :
-    ```shell
+  ```shell
     npm install -g react-native-cli
-    ```
-
+  ```
   5. 初始化
-    ```shell
+  ```shell
     npm install
-    ```
+  ```
 
 #### 运行
-
-  ```shell
+```shell
   react-native run-android
-  ```
+```
